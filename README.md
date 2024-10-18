@@ -1,5 +1,7 @@
 # REST, GraphQL, gRPC
 
+![REST-GraphQL-gRPC](REST-GraphQL-gRPC.jpg)
+
 A good API design is always crucial to any system. It's also important to pick the right API technology. In this tutorial, we will briefly discuss different API technologies: **REST**, **GraphQL**, and **gRPC**.
 
 ## What's an API?
@@ -11,6 +13,8 @@ In simpler terms, APIs help you communicate with a system to retrieve informatio
 ## REST
 
 ### Overview
+
+![rest](rest.png)
 
 A **REST API** (Representational State Transfer) is an API that conforms to the REST architectural style. It interacts with RESTful web services and was introduced by Roy Fielding in 2000.
 
@@ -66,6 +70,8 @@ In REST, the fundamental unit is a **resource**.
 ## GraphQL
 
 ### Overview
+
+![GraphQL](GraphQL.png)
 
 **GraphQL** is a query language for APIs and a server-side runtime that prioritizes retrieving exactly the data requested by clients, and no more. It was developed by Facebook and open-sourced in 2015.
 
@@ -134,6 +140,8 @@ type User {
 ## gRPC
 
 ### Overview
+
+![gRPC](gRPC.png)
 
 **gRPC** is a modern open-source high-performance Remote Procedure Call (RPC) framework that runs in any environment. It supports load balancing, tracing, health checking, authentication, and more.
 
