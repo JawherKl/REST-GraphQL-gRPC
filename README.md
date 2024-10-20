@@ -52,7 +52,6 @@ In REST, the fundamental unit is a **resource**.
 - Decoupled client-server architecture.
 
 ### Disadvantages
-
 - Over-fetching of data.
 - Multiple round trips may be needed.
 
