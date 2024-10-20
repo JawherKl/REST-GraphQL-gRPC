@@ -70,20 +70,17 @@ In REST, the fundamental unit is a **resource**.
 In GraphQL, the fundamental unit is a **query**.
 
 ### Key Concepts
-
 - **Schema**: Describes available functionality on the server.
 - **Queries**: Client requests for specific data fields.
 - **Resolvers**: Functions that generate responses for GraphQL queries.
 
 ### Advantages
-
 - Eliminates data over-fetching.
 - Strongly defined schema.
 - Supports code generation.
 - Optimized payloads.
 
 ### Disadvantages
-
 - Shifts complexity to server-side.
 - Difficult caching.
 - Ambiguous versioning.
