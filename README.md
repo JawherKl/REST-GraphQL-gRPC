@@ -131,23 +131,19 @@ type User {
 ### Overview
 
 ![gRPC](gRPC.png)
-
 **gRPC** is a modern open-source high-performance Remote Procedure Call (RPC) framework that runs in any environment. It supports load balancing, tracing, health checking, authentication, and more.
 
 ### Key Concepts
-
 - **Protocol Buffers**: Efficient data serialization format.
 - **Service Definition**: Define services and RPC methods with parameters and return types.
 
 ### Advantages
-
 - Lightweight and efficient.
 - High performance.
 - Code generation support.
 - Bi-directional streaming.
 
 ### Disadvantages
-
 - Steep learning curve.
 - Limited browser support.
 - Not human-readable.
@@ -171,15 +167,14 @@ message HelloResponse {
 ```
 
 ## REST vs GraphQL vs gRPC
-
 | Type       | Coupling  | Chattiness | Performance | Complexity | Caching | Codegen | Discoverability | Versioning |
 |------------|-----------|------------|-------------|------------|---------|---------|-----------------|------------|
 | REST       | Low       | High       | Good        | Medium     | Great   | Bad     | Good            | Easy       |
 | GraphQL    | Medium    | Low        | Good        | High       | Custom  | Good    | Good            | Custom     |
 | gRPC       | High      | Medium     | Great       | Low        | Custom  | Great   | Bad             | Hard       |
 
-## Conclusion
 
+## Conclusion
 There is no one-size-fits-all solution when choosing an API technology. Each has its strengths and weaknesses, so it's crucial to consider your specific use case and system requirements when making a decision.
 ```
 This structured `README.md` file presents the key concepts of REST, GraphQL, and gRPC in an organized and easy-to-read format.
