@@ -1,4 +1,4 @@
-# REST GraphQL gRPC
+# REST-GraphQL-gRPC
 
 ![REST-GraphQL-gRPC](REST-GraphQL-gRPC.jpg)
 
