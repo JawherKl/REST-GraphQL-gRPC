@@ -1,4 +1,4 @@
-# REST, GraphQL, gRPC
+# REST GraphQL gRPC
 
 ![REST-GraphQL-gRPC](REST-GraphQL-gRPC.jpg)
 
@@ -15,7 +15,6 @@ In simpler terms, APIs help you communicate with a system to retrieve informatio
 ### Overview
 
 ![rest](rest.png)
-
 A **REST API** (Representational State Transfer) is an API that conforms to the REST architectural style. It interacts with RESTful web services and was introduced by Roy Fielding in 2000.
 
 In REST, the fundamental unit is a **resource**.
