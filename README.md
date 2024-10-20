@@ -20,7 +20,6 @@ A **REST API** (Representational State Transfer) is an API that conforms to the 
 In REST, the fundamental unit is a **resource**.
 
 ### Key Concepts
-
 - **Uniform Interface**: Consistent way of interacting with the server.
 - **Client-Server**: Managed through HTTP.
 - **Stateless**: No client context is stored between requests.
@@ -29,7 +28,6 @@ In REST, the fundamental unit is a **resource**.
 - **Code on Demand**: Supports executable code for applications (optional).
 
 ### HTTP Verbs
-
 - **GET**: Retrieve resource representation.
 - **POST**: Create a new resource.
 - **PUT**: Update a resource entirely.
@@ -37,7 +35,6 @@ In REST, the fundamental unit is a **resource**.
 - **DELETE**: Remove a resource.
 
 ### HTTP Response Codes
-
 - **1xx**: Informational.
 - **2xx**: Success (e.g., 200 OK).
 - **3xx**: Redirection.
@@ -45,7 +42,6 @@ In REST, the fundamental unit is a **resource**.
 - **5xx**: Server error (e.g., 500 Internal Server Error).
 
 ### Advantages
-
 - Simple and easy to understand.
 - Flexible and portable.
 - Strong caching support.
@@ -56,7 +52,6 @@ In REST, the fundamental unit is a **resource**.
 - Multiple round trips may be needed.
 
 ### Example
-
 | URI         | HTTP Verb | Description            |
 |-------------|------------|------------------------|
 | `/users`    | GET        | Get all users          |
@@ -70,7 +65,6 @@ In REST, the fundamental unit is a **resource**.
 ### Overview
 
 ![GraphQL](GraphQL.png)
-
 **GraphQL** is a query language for APIs and a server-side runtime that prioritizes retrieving exactly the data requested by clients, and no more. It was developed by Facebook and open-sourced in 2015.
 
 In GraphQL, the fundamental unit is a **query**.
