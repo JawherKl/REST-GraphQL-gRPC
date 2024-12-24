@@ -176,6 +176,4 @@ message HelloResponse {
 
 ## Conclusion
 There is no one-size-fits-all solution when choosing an API technology. Each has its strengths and weaknesses, so it's crucial to consider your specific use case and system requirements when making a decision.
-```
-This structured `README.md` file presents the key concepts of REST, GraphQL, and gRPC in an organized and easy-to-read format.
-```
+
